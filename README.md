@@ -1,10 +1,8 @@
 # Egg Timer
 
-## What You'll Make
-
 I will be building an egg timer app to boil eggs at different levels. 
 
-## What you will learn
+## Learning Points
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
